@@ -483,7 +483,8 @@ code{
 }
 /*--- MAIN -------------------------------------------------------------------*/
 .home #main{
-	background: url(../img/logo_UNS.png) no-repeat 5px 5px;
+	background: url(../img/logo_UNS_blanc.png) no-repeat right 5px;
+	margin-right: 10px;
 	flex: 1 1 auto;
 	display: flex;
 	flex-flow: column;

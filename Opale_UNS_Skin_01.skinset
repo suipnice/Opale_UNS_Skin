@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<st:skinSet majorVersion="0" mediumVersion="1" minorVersion="1" codeSkin="OpaleUNS" xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:st="scenari.eu:styler:1.0">
+<st:skinSet xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:st="scenari.eu:styler:1.0" majorVersion="0" mediumVersion="1" minorVersion="3" codeSkin="OpaleUNS">
 	<st:parentWspKey key="Opale3-6"/>
-	<st:description lang="fr-FR" name="Thème UNS"/>
+	<st:description lang="fr-FR" name="Thème UNS &quot;compétences transversales&quot;"/>
 	<st:icon sc:refUri="/Opale_UNS_Skin/Opale_UNS_Skin_01.png"/>
 	<st:otherCompliantWspKey key="OpaleStarter3-6"/>
 	<st:generator code="auroraW" owner="Opale3-6" type="sm_webSiteGenerator">
